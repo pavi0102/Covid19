@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Covid:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Covid_jar</output-path>
+    <root id="archive" name="Covid.jar">
+      <element id="module-output" name="Covid" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/JAR files/jackson-core-2.12.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/JAR files/json-20210307.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/JAR files/opencsv-5.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/JAR files/jackson-annotations-2.12.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/JAR files/jackson-databind-2.12.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
